@@ -1,0 +1,115 @@
+body {
+    font-family: sans-serif;
+    background-color: #C34C4C;
+}
+
+header {
+    background-color: #87A918;
+}
+
+.button {
+    background-color: #36bbce;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    background-color: #7668B5;
+    padding: 10px;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    display: flex;
+    margin: 0px auto 0px auto;
+    max-width: 1100px;
+}
+
+article {
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    margin: 20px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #87A918;
+    font-size: 24px;          
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block;
+    color: black;
+}
+
+header p {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+footer {
+    background-color: #87A918;
+    padding: 2px;
+}
+
+footer p {
+    background-color: #7668B5;
+    padding: 2px;
+    font-size: 22px;
+}
+main p {
+    text-align: center;
+}
+
+main h2 {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.Catalok {
+    color: aliceblue;
+    background-color: cadetblue;
+    padding: 10px;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav-link:hover {
+    color: gainsboro;
+    background-color:rgb(78, 157, 189);
+}
+
+.article-but:hover {
+    color: rgb(189, 117, 30);
+    background-color: rgb(36, 113, 116);
+    box-shadow: 7.5px 7.5px 2px 0.5px rgb(24, 85, 87);
+}
